@@ -1,4 +1,6 @@
 Name,URL,Duration,UpdateInterval,StartOn,EndBy,Cache
-Exhibit01,https://github.com/avyner-compnow/Exhibit-ptoo/refs/heads/main/PTOO.jpg,0:00:10,1:00:00,1/1/2018 0:00,12/31/30 23:59,yes
-Exhibit02,https://github.com/avyner-compnow/Exhibit-ptoo/refs/heads/main/PTOO2.jpg,0:00:10,1:00:00,1/1/2018 0:00,12/31/30 23:59,yes
-Exhibit03,https://github.com/avyner-compnow/Exhibit-ptoo/refs/heads/main/PTOO3.jpg,0:00:10,1:00:00,1/1/2018 0:00,12/31/30 23:59,yes
+Exhibit01,https://raw.githubusercontent.com/avyner-compnow/Exhibit-ptoo/main/PTOO.jpg,0:00:10,1:00:00,1/1/2018 0:00,12/31/30 23:59,yes
+Exhibit02,https://raw.githubusercontent.com/avyner-compnow/Exhibit-ptoo/main/PTOO2.jpg,0:00:10,1:00:00,1/1/2018 0:00,12/31/30 23:59,yes
+Exhibit03,https://raw.githubusercontent.com/avyner-compnow/Exhibit-ptoo/main/PTOO3.jpg,0:00:10,1:00:00,1/1/2018 0:00,12/31/30 23:59,yes
+
+
